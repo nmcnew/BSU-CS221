@@ -1,0 +1,43 @@
+The 41 not-so-lucky soldiers facing death or capture:
+LinkedQueue [Billy, Bob, Roy, Junior, Charlie, Lucy, Linus, the other Bob, Neo, Morpheus, Trinity, Phil, Ronald, Rock, Stone, Bart, Amelia, Orin, Orville, Wilbur, Mort, Zingo, Ringo, Dingo, Tweedle Dee, Tweedle Dum, Alice, Mad Hatter, Rosy, Chuckles, Josephus, Teddy, Achilles, Clark, Robin, Bruce, Alfred, Jimmy, Lois, Peter, Mary]
+Victim  1: Roy
+Victim  2: Lucy
+Victim  3: Neo
+Victim  4: Phil
+Victim  5: Stone
+Victim  6: Orin
+Victim  7: Mort
+Victim  8: Dingo
+Victim  9: Alice
+Victim 10: Chuckles
+Victim 11: Achilles
+Victim 12: Bruce
+Victim 13: Lois
+Victim 14: Billy
+Victim 15: Charlie
+Victim 16: Morpheus
+Victim 17: Rock
+Victim 18: Orville
+Victim 19: Ringo
+Victim 20: Mad Hatter
+Victim 21: Teddy
+Victim 22: Alfred
+Victim 23: Mary
+Victim 24: Linus
+Victim 25: Ronald
+Victim 26: Wilbur
+Victim 27: Tweedle Dum
+Victim 28: Clark
+Victim 29: Peter
+Victim 30: the other Bob
+Victim 31: Amelia
+Victim 32: Rosy
+Victim 33: Jimmy
+Victim 34: Trinity
+Victim 35: Tweedle Dee
+Victim 36: Bob
+Victim 37: Zingo
+Victim 38: Junior
+Victim 39: Robin
+Victim 40: Bart
+The lucky survivor who faces capture rather than death: Josephus

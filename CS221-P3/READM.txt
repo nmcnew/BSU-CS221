@@ -1,0 +1,54 @@
+*******************************************************************************
+* Project: Project 3
+* Class:   CS221-2
+* Date:    November 14, 2014
+* Name:    Nicholas McNew
+********************************************************************************
+
+OVERVIEW:
+
+	This program runs and tests a DoubleLinkedList
+
+INCLUDED FILES:
+
+DoubleLinkedList.java: My Implementation of the DoubleLinkedListADT
+DoubleLinkedListADT.java: The interface from which DoubleLinkedList pulls from
+ElementNotFoundException.java: Thrown when element is not found
+EmptyCollectionException.java: Thrown when collection is empty
+IndexedListADT.java: Theinterface from which we pull the ideas of an indexed list
+
+
+BUILDING AND RUNNING:
+
+1. Open a Command Line or terminal
+2. CD to the file path in which the code is contained
+3. Type in 'javac ListTester.java'
+4. Then type 'java ListTester' and that should run the Tester class
+ 
+
+PROGRAM DESIGN:
+
+So the goal of this program is to implement a DoubleLinkedList. We do this by
+culminating our IndexedListADt and UnorderedListADT into a DoubleLinkedListADT
+from which we pull the thoughts of all three of those interfaces into the 
+DoubleLinkedList class. Then from there we must implement each method. By
+using the DoubleLinked idea we are able to go and add to the rear of the 
+collection as an O(1) operation, as well as anything else done from the rear.
+It also makes it easier to implement a full ListIterator to iterate through 
+the collection. Insidethe DoubleLinkedList we find that we use the iterator
+to actually do our indexed methods. We actually can iterate a certain number
+of times until we are actually able to keep our our looping under control.
+
+
+PROGRAM DEVELOPMENT AND TESTING DISCUSSION:
+
+So I started this project a little before hand by researching some of the ideas
+about a double linked list. I also looked at the ListIterator interface a while
+to try and figure out the methods for ListIterator. It was quite a challenge to 
+actually check for all those edge cases, it was a hassle that brought many challenges
+and I was able to work through them by using my test class that I had written before
+and it helped me understand how to find those issues. I had a lot of issues with the
+NullPointerExceptions and NoSuchElementExceptions from the iterator. I really enjoyed
+being able to build something from the ground up and seeing it work as well as it did 
+in the end. The testing actually really saved me from just thinking that it's okay for one
+very specific situation.
